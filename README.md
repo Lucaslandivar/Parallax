@@ -2,7 +2,7 @@
   <img src="img/Captura de Tela (80).png">
 
 <h2>Project Deploy</h2>
- <a href="ahttps://lnkd.in/d_QUiwAB">Click here</a>
+ <a href="https://parallax-jzjt82h6t-lucaslandivar.vercel.app">Click here</a>
   
 <h2>Description of the project</h2>
 <p>I did a project to improve the aesthetic part of a website by implementing JavaScript.The aesthetic part of a website is for me as important as the functionality of it, with this project I was able to make a simple but dynamic and very beautiful site mainly.
